@@ -1,7 +1,7 @@
 Capstone-Project-Designing-a-Machine-Learning-Solution
 
 Project Overview:
-This project uses a **Convolutional Neural Network (CNN)** to classify images as either **cats** or **dogs**. The model learns visual features such as edges, shapes, and textures from thousands of labeled images to make predictions on new images.
+This project uses a Convolutional Neural Network (CNN) to classify images as either cats or dogs. The model learns visual features such as edges, shapes, and textures from thousands of labeled images to make predictions on new images.
 
 TensorFlow Cats vs. Dogs Dataset:
 https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
@@ -23,3 +23,5 @@ The model is evaluated using:
 - Recall
 - F1-Score
 - Confusion Matrix
+
+I also add random pictures of cat and dogs because my code will request an upload to test its prediction!
